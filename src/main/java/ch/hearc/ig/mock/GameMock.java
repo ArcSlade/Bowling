@@ -1,6 +1,6 @@
-package ch.hearc.ig.bowling;
+package ch.hearc.ig.mock;
 
-public class Game {
+public class GameMock {
     private int[] rolls = new int[21];
     private int currentRoll = 0;
 
